@@ -1,6 +1,4 @@
-#Rock Paper Scissors Simulation
-
----
+# Rock Paper Scissors Simulation
 
 This program is simulating games of Rock Paper Scissors and showing the results on graph.
 
